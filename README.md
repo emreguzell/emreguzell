@@ -1,20 +1,8 @@
-### Hi there, I'm Emre👋
+# Hi there, I'm Emre👋
 
+## Reach me: 
 
+---
 
-- 📫 How to reach me: https://www.linkedin.com/in/emre-guzell/
-
-  <!--
-
-  Here are some ideas to get you started:
-
-  - 🔭 I’m currently working on ...
-  - 🌱 I’m currently learning ...
-  - 👯 I’m looking to collaborate on ...
-  - 🤔 I’m looking for help with ...
-  - 💬 Ask me about ...
-  - 
-  - 😄 Pronouns: ...
-  - ⚡ Fun fact: ...
-
-  -->
+[Linkedin]:https://www.linkedin.com/in/emre-guzell/
+[<img width="25" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw"/>][linkedin]
